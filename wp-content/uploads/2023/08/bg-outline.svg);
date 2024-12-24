@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=/wp-content/uploads/2023/08/bg-outline.svg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/wp-content/uploads/2023/08/bg-outline.svg";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="/wp-content/uploads/2023/08/bg-outline.svg">/wp-content/uploads/2023/08/bg-outline.svg</a></p>
+	</body>
+</html>
